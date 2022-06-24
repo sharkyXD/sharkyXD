@@ -16,6 +16,6 @@
 
  <h4><b><samp>Connect with me:</samp></b></h4>
 
-[![Instagram](https://img.shields.io/badge/-808080?style=flat-square&logo=instagram&logoColor=red)](https://instagram/Uncle._.Sepi)
+[![Instagram](https://img.shields.io/badge/-808080?style=flat-square&logo=instagram&logoColor=red)](https://instagram.com/Uncle._.Sepi)
 [![Telegram](https://img.shields.io/badge/-808080?style=flat-square&logo=telegram&logoColor=red)](https://t.me/AlexRadiKali) 
 [![twitter](https://img.shields.io/badge/-808080?style=flat-square&logo=twitter&logoColor=blue)](https://twitter.com/AlexRadikali)
